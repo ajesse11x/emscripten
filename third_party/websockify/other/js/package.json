@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "ws": ">=0.4.27",
-    "optimist": "latest",
+    "optimist": "0.6.1",
     "policyfile": "latest"
   }
 }
